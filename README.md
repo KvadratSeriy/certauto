@@ -1,2 +1,0 @@
-# certauto
-kharkiv automobile certificatia
